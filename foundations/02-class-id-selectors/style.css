@@ -1,0 +1,19 @@
+.phrase {
+    background-color: #ffc0cb;
+    font-family: "Verdana", "DejaVu Sans", sans-serif; 
+}
+
+.big {
+    font-size: 24px;
+}
+
+#A1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#A2 {
+    background-color: #008000;
+    font-size: 24px;
+    font-weight: bold;
+}
